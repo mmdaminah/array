@@ -11,5 +11,4 @@ function flatArray(arr){
 for(let number of numbers){
     flatArray(number)
 }
-for(let number of array)
-    console.log(number)
+console.log(array)
